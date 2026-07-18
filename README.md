@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vexo-Vanta 👋</h1>
 
-<!--
-**ZitXCheat1/ZitXCheat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Developer building Minecraft tools, web projects, and custom user experiences.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [AquiaTheme](https://github.com/ZitXCheat1/AquiaTheme)
+
+A clean, animated dark theme for the Pterodactyl panel, built with PHP.
+
+## What I work on
+
+- Minecraft tools and client-side projects
+- Web interfaces and custom themes
+- Practical experiments across my public repositories
+
+## Current focus
+
+Improving project documentation, repository presentation, and the quality of my public releases.
+
+## Explore my work
+
+Browse my [public repositories](https://github.com/ZitXCheat1?tab=repositories).
