@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vexo-Vanta 👋</h1>
+<h1 align="center">Hi, I'm Vexoffx 👋</h1>
 
 <p align="center">
   Developer building Minecraft tools, web projects, and custom user experiences.
