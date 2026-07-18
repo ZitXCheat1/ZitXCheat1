@@ -69,22 +69,31 @@ I'm **Vexoffx**, a self-taught Moroccan developer based in Italy. I turn curiosi
 | [**Portfolio**](https://vexoportoglio.vercel.app/) | My story, selected work, stack, and current direction | Active |
 | **Python Experiments** | Automation scripts and AI-assisted workflow prototypes | Learning |
 
-## GitHub achievements
+## GitHub profile signals
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ZitXCheat1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+![Followers](https://img.shields.io/github/followers/ZitXCheat1?style=for-the-badge&logo=github&label=Followers&color=0969da)
+![Stars](https://img.shields.io/github/stars/ZitXCheat1?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20stars&color=6f42c1)
+![Last commit](https://img.shields.io/github/last-commit/ZitXCheat1/ZitXCheat1?style=for-the-badge&logo=git&label=Profile%20updated&color=0e8a6d)
+![Profile commits](https://img.shields.io/github/commit-activity/t/ZitXCheat1/ZitXCheat1?style=for-the-badge&logo=git&label=Profile%20commits&color=8250df)
 
 </div>
 
-## Activity and streak
+## Contribution streak
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ZitXCheat1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Vexoffx GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZitXCheat1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img width="72%" src="https://streak-stats.demolab.com?user=ZitXCheat1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=ZitXCheat1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+## Coding mode
+
+<div align="center">
+
+<img width="46%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Animated programmer at work" />
+<img width="46%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Animated coding session" />
 
 </div>
 
